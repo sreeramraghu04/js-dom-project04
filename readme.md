@@ -8,7 +8,7 @@ This is a basic **stopwatch web app** built using HTML, CSS, and JavaScript. It 
 
 ### Live demo link
 
-- [livedemo]()
+- [livedemo](https://stop-watch-timer-dom.netlify.app/)
 
 ---
 
