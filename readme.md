@@ -1,4 +1,4 @@
-# JavaScript Dom
+# JavaScript DOM
 
 ### 📝 **Stopwatch Project Description**
 
