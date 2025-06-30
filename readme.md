@@ -6,12 +6,13 @@ This is a basic **stopwatch web app** built using HTML, CSS, and JavaScript. It 
 
 ---
 
-### Live demo link
+### Screenshots
 
-- [livedemo](https://stop-watch-timer-dom.netlify.app/)
+- ![alt text](stopwatch.png)
 
 ---
 
-### Live Preview
+### Demo Link
 
-- ![alt text](stopwatch.png)
+- [Live Demo](https://stop-watch-timer-dom.netlify.app/)
+
